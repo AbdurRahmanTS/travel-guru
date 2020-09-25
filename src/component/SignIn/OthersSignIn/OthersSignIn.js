@@ -49,11 +49,11 @@ const OthersSignIn = () => {
             </Grid>
             <div className={'button-style'}>
                 <img src={FacebookIcon} alt=""/>
-                <Button onClick={facebookSignIn}>Continue with Facebook</Button>
+                <Button className={"btn-style"} onClick={facebookSignIn}>Continue with Facebook</Button>
             </div>
             <div className={'button-style'}>
                 <img src={GoogleIcon} alt=""/>
-                <Button onClick={googleSignIn}>Continue with Google</Button>
+                <Button className={"btn-style"} onClick={googleSignIn}>Continue with Google</Button>
             </div>
         </div>
     );

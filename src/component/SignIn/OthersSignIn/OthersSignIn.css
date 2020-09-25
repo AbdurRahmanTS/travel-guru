@@ -13,3 +13,6 @@
     float: left;
     margin: 5px;
 }
+.btn-style {
+    text-transform: none !important;
+}
