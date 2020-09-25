@@ -1,0 +1,15 @@
+.or-area {
+    text-align: center;
+    width: 70%;
+    margin: 15px auto;
+}
+.button-style {
+    border: 1px solid #C7C7C7;
+    border-radius: 30px;
+    margin-top: 12px;
+}
+.button-style img {
+    width: 25px;
+    float: left;
+    margin: 5px;
+}

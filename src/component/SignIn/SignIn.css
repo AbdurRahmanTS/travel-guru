@@ -1,0 +1,6 @@
+.toggol-btn {
+    text-transform: none !important;
+}
+.toggol-btn:hover {
+    background-color: white !important;
+}

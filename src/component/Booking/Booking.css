@@ -1,0 +1,10 @@
+.form {
+    width: 52%;
+    height: 100%;
+    background-color: white;
+    margin-left: 182px !important;
+    padding: 35px !important; 
+}
+.text-muted {
+    margin-bottom: 10px;
+}

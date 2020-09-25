@@ -1,0 +1,23 @@
+.slider-size {
+    height: 50%;
+    border-radius: 20px;
+}
+.makeStyles-title-3 {
+    color: white !important;
+}
+.button-style {
+    background-color: #ffffff00 !important;
+    border-color: #ffffff00 !important;
+    height: 96% !important;
+    margin-right: 25px !important;
+}
+.button-style:hover {
+    border-color: #ffffff00 !important;
+}
+
+.img-style {
+    height: 345px !important;
+    border-radius: 20px;
+    overflow: hidden;
+    left: 48% !important;
+}
